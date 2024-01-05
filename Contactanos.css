@@ -1,0 +1,147 @@
+ .u-section-1 {
+  background-image: linear-gradient(to right, #f37335, #f0c830);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 497px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  width: 204px;
+  margin: 16px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: -26px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 329px;
+  width: 570px;
+  --thumb-color: #29b7dd;
+  --thumb-hover-color: #63cbe7;
+  --track-color: #c0c0c0;
+  --track-active-color: #29b7dd;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  --radius: 50px;
+  font-weight: 700;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 42px;
+  min-height: 16px;
+  width: 147px;
+  min-width: 68px;
+  margin: -11px 353px 42px auto;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    width: 146px;
+    margin-right: 294px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+    width: auto;
+    margin-right: 16px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: -71px;
+    margin-right: 172px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    width: auto;
+    margin-top: 9px;
+    margin-right: 149px;
+    margin-left: 187px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.25rem;
+    margin-top: -18px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+    margin-top: -1px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: -65px;
+    margin-right: 68px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 0;
+    margin-right: 40px;
+    margin-left: 97px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.875rem;
+    margin-top: -8px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-right: 41px;
+  }
+}
